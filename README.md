@@ -31,10 +31,13 @@ Use the sms_prediction function to predict the classification of a new text by d
 ### Create the Gradio Interface Application
 * Create a Gradio Interface application that takes a textbox for the inputs and has a textbox for the output. The textboxes should have labels that describe what each textbox contains.
 
-* Launch the application and provide the URL to share the application. Your application should look like the following:
+* Launch the application and provide the URL to share the application. Your application should look like below:
+  
+  ![gradio_display](sms-text-prediction-gradio-app.png)
 
 The SMS prediction Gradio application interface
 
+### Final Test
 Use the following text messages to test your application.
 
 1. You are a lucky winner of $5000!
